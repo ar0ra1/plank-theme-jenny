@@ -1,4 +1,4 @@
-# plank-theme
+# plank-theme-jenny
 A bit like Sierra :)   
 Light Theme   
 
