@@ -1,6 +1,8 @@
 # plank-theme
-A bit like Sierra :)
-Lighter Theme   
+A bit like Sierra :)   
+Light Theme   
+
+
 If you prefer a darker theme -   
 https://github.com/ar0ra1/plank-theme-joey.git  
   
