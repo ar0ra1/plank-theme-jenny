@@ -61,4 +61,3 @@ UrgentHueShift=0
 ItemMoveTime=200
 #Whether background and icons will unhide/hide with different speeds. The top-border of both will leave/hit the screen-edge at the same time.
 CascadeHide=true
-
