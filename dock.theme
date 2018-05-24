@@ -10,9 +10,9 @@ LineWidth=1
 #The color (RGBA) of the outer stroke.
 OuterStrokeColor=49;;49;;49;;39
 #The starting color (RGBA) of the fill gradient.
-FillStartColor=255;;255;;255;;204
+FillStartColor=255;;255;;255;;150
 #The ending color (RGBA) of the fill gradient.
-FillEndColor=255;;255;;255;;204
+FillEndColor=255;;255;;255;;150
 #The color (RGBA) of the inner stroke.
 InnerStrokeColor=244;;244;;244;;200
 
